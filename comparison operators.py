@@ -1,0 +1,6 @@
+print(5 > 3)    # True (5 is greater than 3)
+print(5 < 3)    # False (5 is not less than 3)
+print(5 == 5)   # True (5 is equal to 5)
+print(5 != 3)   # True (5 is not equal to 3)
+print(5 >= 3)   # True (5 is greater than or equal to 3)
+print(5 <= 5)   # True (5 is less than or equal to 5)
